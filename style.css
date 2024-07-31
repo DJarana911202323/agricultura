@@ -5,10 +5,15 @@ body {
     background-color: #ffffff;
 }
 header {
-    background-color: #fdd835;
-    color: #ffffff;
+    background-color: #00BFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: space-between;
     padding: 20px;
-    text-align: center;
+    position: relative; 
+    color: #ffffff;
+    
 }
 .container {
     padding: 20px;
@@ -52,3 +57,4 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
